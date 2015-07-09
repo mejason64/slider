@@ -12,6 +12,25 @@ figure {
   position: relative;
   display: block;
   overflow: hidden;
+  height: 400px;
+}
+
+.slide1{
+  background: url(../img/humpback_whale.jpg) no-repeat center center;
+  background-size: cover;
+  height: 600px;
+}
+
+.slide2{
+  background: url(../img/mertvoemore.jpg) no-repeat center center;
+  background-size: cover;
+  height: 600px;
+}
+
+.slide3{
+  background: url(../img/10865381434_31b5fd3c73_b.jpg) no-repeat center center;
+  background-size: cover;
+  height: 600px;
 }
 
 figure.show {
